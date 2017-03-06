@@ -1,7 +1,9 @@
 # I-USE-THIS
 
 Softwares:
+
 Windows 10 Pro
+
 Sublime Text 3 With Material Theme and Twilight
 Clover
 Launchy
