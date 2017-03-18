@@ -1,6 +1,6 @@
 # I-USE-THIS
 
-Softwares:
+<strong>Softwares:</strong>
 
 Windows 10 Pro
 
@@ -54,7 +54,7 @@ Glimpses
 
 F.lux
 
-Online Service:
+<strong>Online Service:</strong>
 
 Trello
 
