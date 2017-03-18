@@ -50,3 +50,14 @@ TeamViewer
 
 IoBit Unistuller
 
+Glimpses
+
+F.lux
+
+Online Service:
+
+Trello
+
+WhatPulse
+
+Rescuetime
