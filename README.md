@@ -6,13 +6,17 @@ Windows 10 Pro
 
 Sublime Text 3 With (Material Theme and Seti_Ui ) and Twilight
 
+PHP Storm
+
+HeidiSql
+
 Clover
 
 Launchy
 
 Everything
 
-Xampp
+Xampp and Mamp
 
 Photoshop
 
@@ -38,7 +42,7 @@ HandBrake
 
 MonoSnap
 
-Webdrive
+Webdrive and Filezila
 
 Mozila Thuinderbird
 
@@ -54,6 +58,12 @@ Glimpses
 
 F.lux
 
+Tortoisesvn
+
+GitTower
+
+DataGrip
+
 <strong>Online Service:</strong>
 
 Trello
@@ -61,3 +71,9 @@ Trello
 WhatPulse
 
 Rescuetime
+
+<strong>Packages:</strong>
+Cygwin and gitbash on conemu
+
+Chocolatey
+
